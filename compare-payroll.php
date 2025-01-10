@@ -122,9 +122,9 @@
                 <div class="row align-items-center">
                     <!-- Main Heading and Buttons Section -->
                     <div class="col-lg-6 text-start" data-aos="fade-right">
-                        <h1>Online Payroll for small business</h1>
+                        <h1>Compare Payroll Services for Small Business</h1>
                         <p class="hero-subtext">
-                            Payroll Pricing & Plans. Simplified.
+                        EazePayroll makes it easy to compare different payroll solutions.
                         </p>
                         <!-- CTA Buttons -->
                         <div class="d-flex mt-3">
@@ -138,11 +138,7 @@
                         <div class="mt-4">
 
                             <p class="hero-paragraph">
-                                Whether you're a small business or a large enterprise, our platform ensures seamless
-                                payroll processing
-                                with top-notch security, accuracy, and compliance.Whether you're a small business or a
-                                large enterprise, our platform ensures seamless payroll processing
-                                with top-notch security, accuracy, and compliance.
+                            Whether you prefer a hands-on approach or a fully automated system, EazePayroll has the right payroll solution for your business. We’ll help you identify the best fit for your needs, ensuring simplicity and accuracy every step of the way. Discover how easy it is to transition to EazePayroll and enjoy the benefits of streamlined payroll management.
                             </p>
 
                         </div>
@@ -173,13 +169,12 @@
 
                     <div class="col-lg-5 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="content">
-                            <h3>Real-Time Financial Data</h3>
+                            <h3>Switch, Simplify, and Save</h3>
                             <p>
-                                Access up-to-date financial data anytime with real-time insights. Track cash flow,
-                                expenses, and profits
-                                instantly, enabling you to make informed decisions quickly and keep your business on
-                                track with
-                                accurate, live financial information.
+                            Ready to simplify your payroll process? Make the switch to EazePayroll today!
+                            </p>
+                            <p>
+                            Save time, reduce costs, and gain peace of mind with our user-friendly online payroll tools and responsive support. Whether you're transitioning from handling payroll yourself or moving from another provider, our team at EazePayroll is here to guide you every step of the way.
                             </p>
                             <a href="#" class="btn more-btn">Learn More</a>
                         </div>
@@ -187,36 +182,7 @@
 
                 </div><!-- Features Item -->
 
-                <div class="row gy-4 justify-content-between features-item">
-
-                    <div class="col-lg-5 d-flex align-items-center order-2 order-lg-1" data-aos="fade-up"
-                        data-aos-delay="100">
-
-                        <div class="content">
-                            <h3>Grow your business with smart, efficient financial management tools</h3>
-                            <p>
-                                Create and send invoices in seconds with our single-click invoice feature. Simplify your
-                                billing
-                                process, save time, and ensure accuracy with just one click—perfect for busy
-                                entrepreneurs and growing
-                                businesses.
-                            </p>
-                            <ul>
-                                <li><i class="bi bi-easel flex-shrink-0"></i> Instant Invoice Creation.</li>
-                                <li><i class="bi bi-patch-check flex-shrink-0"></i> Customizable Templates.</li>
-                                <li><i class="bi bi-brightness-high flex-shrink-0"></i> Automated Client Data.</li>
-                            </ul>
-                            <p></p>
-                            <a href="#" class="btn more-btn">Try One-Click Invoice</a>
-                        </div>
-
-                    </div>
-
-                    <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-up" data-aos-delay="200">
-                        <img src="assets/img/features-2.jpg" class="img-fluid" alt="">
-                    </div>
-
-                </div><!-- Features Item -->
+                
 
             </div>
 
@@ -369,13 +335,9 @@
 
                     <div class="col-lg-5 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="content">
-                            <h3>Real-Time Financial Data</h3>
+                            <h3>Why DIY Payroll May Not Be The Best Option</h3>
                             <p>
-                                Access up-to-date financial data anytime with real-time insights. Track cash flow,
-                                expenses, and profits
-                                instantly, enabling you to make informed decisions quickly and keep your business on
-                                track with
-                                accurate, live financial information.
+                            Handling payroll on your own can be time-consuming and overwhelming, especially when you're dealing with complex tax regulations at local, state, and federal levels. Many small business owners struggle with payroll errors, and research shows that 32% admit to making mistakes—often resulting in underpaid employees. This not only affects your employees but can also lead to costly fines and penalties.
                             </p>
                             <a href="#" class="btn more-btn">Learn More</a>
                         </div>

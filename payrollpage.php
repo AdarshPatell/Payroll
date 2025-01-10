@@ -128,7 +128,7 @@
             </p>
             <!-- CTA Buttons -->
             <div class="d-flex mt-3">
-              <a href="#about" class="btn-get-started">Get Started</a>
+              <a href="#about" class="btn-get-started">Start Now</a>
               <a href="#video" class="glightbox btn-watch-video d-flex align-items-center ms-3">
                 <i class="bi bi-play-circle"></i><span>Watch Video</span>
               </a>
@@ -136,13 +136,14 @@
 
             <!-- Additional Content Section -->
             <div class="mt-4">
-              
+
               <p class="hero-paragraph">
                 Whether you're a small business or a large enterprise, our platform ensures seamless payroll processing
-                with top-notch security, accuracy, and compliance.Whether you're a small business or a large enterprise, our platform ensures seamless payroll processing
+                with top-notch security, accuracy, and compliance.Whether you're a small business or a large enterprise,
+                our platform ensures seamless payroll processing
                 with top-notch security, accuracy, and compliance.
               </p>
-              
+
             </div>
           </div>
 
@@ -248,52 +249,37 @@
     <!-- /Faq Section -->
 
 
-    <!-- About Section -->
-    <section id="about" class="about section">
+
+
+    <!-- Features Details Section -->
+    <section id="features-details" class="features-details section">
 
       <div class="container">
 
-        <div class="row gy-4">
+        <div class="row gy-4 justify-content-between features-item">
 
-          <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-            <p class="who-we-are">Who We Are</p>
-            <h3>Providing Simplified plans and Payroll Pricing</h3>
-            <p class="fst-italic">
-              Free direct deposit. Free unlimited payroll runs. Free auto payroll. Free payroll tax calculations.
-            </p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i> <span> Our platform provides proactive advice, ensuring compliance,
-                </span></li>
-              <li><i class="bi bi-check-circle"></i> <span>optimizing tax savings, and helping you make informed
-                  decisions for long-term financial success and growth.</span></li>
-            </ul>
-            <a href="#" class="read-more"><span>Get Started</span><i class="bi bi-arrow-right"></i></a>
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <img src="assets/img/features-1.jpg" class="img-fluid" alt="">
           </div>
 
-          <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
-            <div class="row gy-4">
-              <div class="col-lg-6">
-                <img src="assets/img/about-company-1.jpg" class="img-fluid" alt="">
-              </div>
-              <div class="col-lg-6">
-                <div class="row gy-4">
-                  <div class="col-lg-12">
-                    <img src="assets/img/about-company-2.jpg" class="img-fluid" alt="">
-                  </div>
-                  <div class="col-lg-12">
-                    <img src="assets/img/about-company-3.jpg" class="img-fluid" alt="">
-                  </div>
-                </div>
-              </div>
+          <div class="col-lg-5 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
+            <div class="content">
+              <h3> Effortless Payroll Management</h3>
+              
+              <p>
+              Leave the complicated tasks to us—such as calculating and remitting federal, state, and local payroll taxes—so you can focus on what matters most to your business.
+              </p>
+              <a href="#" class="btn more-btn">Learn More</a>
             </div>
-
           </div>
 
-        </div>
+        </div><!-- Features Item -->
+
 
       </div>
+
     </section>
-    <!-- /About Section -->
+    <!-- /Features Details Section -->
 
 
 

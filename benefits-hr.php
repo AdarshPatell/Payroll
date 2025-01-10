@@ -122,10 +122,9 @@
                 <div class="row align-items-center">
                     <!-- Main Heading and Buttons Section -->
                     <div class="col-lg-6 text-start" data-aos="fade-right">
-                        <h1>Online Payroll for small business</h1>
+                        <h1>HR & Benefit Solutions Tailored to Your Needs</h1>
                         <p class="hero-subtext">
-                            Payroll Pricing & Plans. Simplified.
-                        </p>
+                            Support your employees, stay competitive, sustain compliance. </p>
                         <!-- CTA Buttons -->
                         <div class="d-flex mt-3">
                             <a href="#about" class="btn-get-started">Get Started</a>
@@ -138,11 +137,8 @@
                         <div class="mt-4">
 
                             <p class="hero-paragraph">
-                                Whether you're a small business or a large enterprise, our platform ensures seamless
-                                payroll processing
-                                with top-notch security, accuracy, and compliance.Whether you're a small business or a
-                                large enterprise, our platform ensures seamless payroll processing
-                                with top-notch security, accuracy, and compliance.
+                                Our small business solutions support the health and wellness of you, your employees, and
+                                your bottom line.
                             </p>
 
                         </div>
@@ -158,7 +154,7 @@
         </section>
         <!-- /Hero Section -->
 
-        
+
 
         <!-- Features Details Section -->
         <section id="features-details" class="features-details section">
@@ -173,14 +169,26 @@
 
                     <div class="col-lg-5 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="content">
-                            <h3>Real-Time Financial Data</h3>
+                            <h2>Beyond Payroll, We Simplify Business Operations</h2>
+                            <h3>Efficient Business Management</h3>
                             <p>
-                                Access up-to-date financial data anytime with real-time insights. Track cash flow,
-                                expenses, and profits
-                                instantly, enabling you to make informed decisions quickly and keep your business on
-                                track with
-                                accurate, live financial information.
+                                At EazePayroll, we go beyond just payroll. Our platform streamlines your business
+                                management with time-saving tools, alerts, and customizable templates that keep you
+                                compliant and focused on growth.
                             </p>
+                            <h3>Retirement Planning</h3>
+                            <p>
+                                Offer your employees valuable 401(k) plans with ease. EazePayroll simplifies retirement
+                                planning, making it easier for your team to save while helping your business benefit
+                                from tax advantages.
+                            </p>
+                            <h3>Employee Protection Plans</h3>
+                            <p>
+                                Protect your employees and your business with customized workers' compensation plans.
+                                EazePayroll helps ensure you're fully covered, minimizing risks and keeping your
+                                business safe.
+                            </p>
+
                             <a href="#" class="btn more-btn">Learn More</a>
                         </div>
                     </div>
@@ -193,19 +201,12 @@
                         data-aos-delay="100">
 
                         <div class="content">
-                            <h3>Grow your business with smart, efficient financial management tools</h3>
+                            <h3>HR and Compliance Resources Built for Small Business</h3>
                             <p>
-                                Create and send invoices in seconds with our single-click invoice feature. Simplify your
-                                billing
-                                process, save time, and ensure accuracy with just one click—perfect for busy
-                                entrepreneurs and growing
-                                businesses.
+                                Simplify your people processes with SureHR, a suite of smart, affordable, and custom HR
+                                solutions that can help save you time and trouble on everyday HR tasks.
                             </p>
-                            <ul>
-                                <li><i class="bi bi-easel flex-shrink-0"></i> Instant Invoice Creation.</li>
-                                <li><i class="bi bi-patch-check flex-shrink-0"></i> Customizable Templates.</li>
-                                <li><i class="bi bi-brightness-high flex-shrink-0"></i> Automated Client Data.</li>
-                            </ul>
+
                             <p></p>
                             <a href="#" class="btn more-btn">Try One-Click Invoice</a>
                         </div>
@@ -223,7 +224,7 @@
         </section>
         <!-- /Features Details Section -->
 
-       
+
         <!-- Features Details Section -->
         <section id="features-details" class="features-details section">
 
@@ -237,26 +238,82 @@
 
                     <div class="col-lg-5 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="content">
-                            <h3>Real-Time Financial Data</h3>
+                            <h3>Workers’ Compensation That Works For You</h3>
                             <p>
-                                Access up-to-date financial data anytime with real-time insights. Track cash flow,
-                                expenses, and profits
-                                instantly, enabling you to make informed decisions quickly and keep your business on
-                                track with
-                                accurate, live financial information.
+                                Depending on the requirements of your state, workers’ compensation insurance may be
+                                mandatory. We make it easy for small businesses and households to set up and manage your
+                                policy.
                             </p>
-                            <a href="#" class="btn more-btn">Learn More</a>
+                            <a href="#" class="btn more-btn">Get a Quote</a>
                         </div>
                     </div>
 
                 </div><!-- Features Item -->
 
-                
+
 
             </div>
 
         </section>
         <!-- /Features Details Section -->
+
+        <!-- Features Details Section -->
+        <section id="features-details" class="features-details section">
+
+            <div class="container">
+
+
+
+                <div class="row gy-4 justify-content-between features-item">
+
+                    <div class="col-lg-5 d-flex align-items-center order-2 order-lg-1" data-aos="fade-up"
+                        data-aos-delay="100">
+
+                        <div class="content">
+                            <h3>Retirement Plans That Fit Your Business</h3>
+                            <p>
+                            EazePayroll's  plans provide cost-effective and competitive benefits tailored to your business needs. Contact one of our specialists today at 866-497-2028 to find the perfect plan for you.
+                            </p>
+
+                            <p>Whether you're a small startup or an established company, EazePayroll offers retirement plans that align with your business goals and budget. Our solutions are designed to help you attract and retain top talent by providing employees with secure retirement options. With our easy-to-implement plans and ongoing support, you can focus on your business growth while we take care of your retirement benefits.</p>
+                            <a href="#" class="btn more-btn">Try Plans</a>
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-up" data-aos-delay="200">
+                        <img src="assets/img/features-2.jpg" class="img-fluid" alt="">
+                    </div>
+
+                </div><!-- Features Item -->
+
+                <div class="row gy-4 justify-content-between features-item">
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                        <img src="assets/img/features-1.jpg" class="img-fluid" alt="">
+                    </div>
+
+                    <div class="col-lg-5 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
+                        <div class="content">
+                            <h2>Cost-Effective Health Insurance for Your Team</h2>
+                            <p>
+                            Offer your employees premium health insurance coverage without breaking the budget. EazePayroll makes it easy to provide affordable and comprehensive plans for your business.
+                            </p>
+                            <p>
+                            Offer your employees premium health insurance coverage without breaking the budget. EazePayroll makes it easy to provide affordable and comprehensive plans for your business. With flexible options and expert guidance, we ensure your employees have access to the best healthcare while helping you manage costs effectively. Focus on growing your business while we handle the complexities of health insurance.
+                            </p>
+
+
+                            <a href="#" class="btn more-btn">Learn More</a>
+                        </div>
+                    </div>
+
+                </div><!-- Features Item -->
+            </div>
+
+        </section>
+        <!-- /Features Details Section -->
+
 
     </main>
 

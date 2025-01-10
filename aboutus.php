@@ -158,7 +158,55 @@
         </section>
         <!-- /Hero Section -->
 
+        <!-- About Section -->
+        <section id="about" class="about section">
 
+            <div class="container">
+
+                <div class="row gy-4">
+
+                    <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+                        <p class="who-we-are">Who We Are</p>
+                        <h3>Providing Simplified plans and Payroll Pricing</h3>
+                        <p class="fst-italic">
+                            Free direct deposit. Free unlimited payroll runs. Free auto payroll. Free payroll tax
+                            calculations.
+                        </p>
+                        <ul>
+                            <li><i class="bi bi-check-circle"></i> <span> Our platform provides proactive advice,
+                                    ensuring compliance,
+                                </span></li>
+                            <li><i class="bi bi-check-circle"></i> <span>optimizing tax savings, and helping you make
+                                    informed
+                                    decisions for long-term financial success and growth.</span></li>
+                        </ul>
+                        <a href="#" class="read-more"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                    </div>
+
+                    <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
+                        <div class="row gy-4">
+                            <div class="col-lg-6">
+                                <img src="assets/img/about-company-1.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="row gy-4">
+                                    <div class="col-lg-12">
+                                        <img src="assets/img/about-company-2.jpg" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <img src="assets/img/about-company-3.jpg" class="img-fluid" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+        <!-- /About Section -->
 
         <!-- Features Details Section -->
         <section id="features-details" class="features-details section">
@@ -173,13 +221,12 @@
 
                     <div class="col-lg-5 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="content">
-                            <h3>Real-Time Financial Data</h3>
+                            <h3> Our Mission</h3>
                             <p>
-                                Access up-to-date financial data anytime with real-time insights. Track cash flow,
-                                expenses, and profits
-                                instantly, enabling you to make informed decisions quickly and keep your business on
-                                track with
-                                accurate, live financial information.
+                            Simplifying Payroll for Businesses Worldwide
+                            </p>
+                            <p>
+                            Our mission is to remove the stress and complexities from payroll processing so that businesses can focus on what matters most—growing their operations. By leveraging cutting-edge technology and industry expertise, we aim to deliver fast, accurate, and secure payroll services, ensuring that your employees are paid on time and in full, every time.
                             </p>
                             <a href="#" class="btn more-btn">Learn More</a>
                         </div>
@@ -193,7 +240,10 @@
                         data-aos-delay="100">
 
                         <div class="content">
-                            <h3>Grow your business with smart, efficient financial management tools</h3>
+                            <h3>What We Do</h3>
+                            <p>
+                            Comprehensive Payroll Services for Your Business
+                            </p>
                             <p>
                                 Create and send invoices in seconds with our single-click invoice feature. Simplify your
                                 billing
@@ -202,9 +252,9 @@
                                 businesses.
                             </p>
                             <ul>
-                                <li><i class="bi bi-easel flex-shrink-0"></i> Instant Invoice Creation.</li>
-                                <li><i class="bi bi-patch-check flex-shrink-0"></i> Customizable Templates.</li>
-                                <li><i class="bi bi-brightness-high flex-shrink-0"></i> Automated Client Data.</li>
+                                <li><i class="bi bi-easel flex-shrink-0"></i>Timely and accurate calculations of salaries, wages, bonuses, and deductions.</li>
+                                <li><i class="bi bi-patch-check flex-shrink-0"></i> Ensuring that all necessary federal, state, and local tax obligations are met..</li>
+                                <li><i class="bi bi-brightness-high flex-shrink-0"></i> Handling benefits like health insurance, retirement contributions, and other employee perks</li>
                             </ul>
                             <p></p>
                             <a href="#" class="btn more-btn">Try One-Click Invoice</a>
@@ -305,55 +355,7 @@
         </section>
         <!-- Success amde simple -->
 
-        <!-- About Section -->
-        <section id="about" class="about section">
-
-            <div class="container">
-
-                <div class="row gy-4">
-
-                    <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-                        <p class="who-we-are">Who We Are</p>
-                        <h3>Providing Simplified plans and Payroll Pricing</h3>
-                        <p class="fst-italic">
-                            Free direct deposit. Free unlimited payroll runs. Free auto payroll. Free payroll tax
-                            calculations.
-                        </p>
-                        <ul>
-                            <li><i class="bi bi-check-circle"></i> <span> Our platform provides proactive advice,
-                                    ensuring compliance,
-                                </span></li>
-                            <li><i class="bi bi-check-circle"></i> <span>optimizing tax savings, and helping you make
-                                    informed
-                                    decisions for long-term financial success and growth.</span></li>
-                        </ul>
-                        <a href="#" class="read-more"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
-                    </div>
-
-                    <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
-                        <div class="row gy-4">
-                            <div class="col-lg-6">
-                                <img src="assets/img/about-company-1.jpg" class="img-fluid" alt="">
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row gy-4">
-                                    <div class="col-lg-12">
-                                        <img src="assets/img/about-company-2.jpg" class="img-fluid" alt="">
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <img src="assets/img/about-company-3.jpg" class="img-fluid" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-        </section>
-        <!-- /About Section -->
+        
 
         <!-- Clients Section -->
         <section id="clients" class="clients section">
@@ -392,40 +394,13 @@
 
         </section>
         <!-- /Clients Section -->
-         
-        <!-- Features Details Section -->
-        <section id="features-details" class="features-details section">
 
-            <div class="container">
-
-                <div class="row gy-4 justify-content-between features-item">
-
-                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-                        <img src="assets/img/features-1.jpg" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-5 d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
-                        <div class="content">
-                            <h3>Real-Time Financial Data</h3>
-                            <p>
-                                Access up-to-date financial data anytime with real-time insights. Track cash flow,
-                                expenses, and profits
-                                instantly, enabling you to make informed decisions quickly and keep your business on
-                                track with
-                                accurate, live financial information.
-                            </p>
-                            <a href="#" class="btn more-btn">Learn More</a>
-                        </div>
-                    </div>
-
-                </div><!-- Features Item -->
-
-
-
-            </div>
+        
 
         </section>
-        <!-- /Features Details Section -->
+        
+
+        
 
     </main>
 
